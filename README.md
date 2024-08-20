@@ -40,6 +40,7 @@ Follow these steps to run the program:
    git clone <repository-url>
 
 2. **Navigate to Project Directory**:
+    ```bash
     cd oop-kotlin
 
 3. **Open the Project**:
