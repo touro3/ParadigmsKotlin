@@ -13,6 +13,8 @@ C#: Influenced some object-oriented and extension features.
 JavaScript: Provided inspiration for flexibility and simplicity in the language design.
 Kotlin was designed to be safer and more concise than Java, especially by addressing common issues like NullPointerExceptions.
 
+## Influence on Other Languages
+Although Kotlin is relatively new, its modern features—like Java interoperability, null safety, and functional programming support—are influencing how other languages, particularly Java, evolve. For instance, Kotlin’s approach to handling nulls and its concise syntax are shaping improvements in languages aiming to compete or interoperate with Kotlin.
 ## 3. Adoption of Kotlin as an OOP Language
 
 **Kotlin**, developed by **JetBrains**, was officially released in **2016**. It was designed to be fully interoperable with **Java** while providing a more concise syntax and additional safety features. Kotlin quickly gained adoption due to its ease of use, modern features, and seamless integration with existing Java codebases, particularly within the **Android** development community.
